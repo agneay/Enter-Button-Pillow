@@ -9,3 +9,5 @@ A Raspberry Pi Pico–powered “Enter Button” embedded in a pillow — a fun,
 ![issues](https://img.shields.io/github/issues/agneay/Enter-Button-Pillow?style=for-the-badge)
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Y8Y21JGEH6)
+
+![](raspberry_pi_pico2_w.jpg)
